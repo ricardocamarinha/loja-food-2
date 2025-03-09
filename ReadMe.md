@@ -4,9 +4,8 @@
 
 ## 👉 Visualizar Site: <a href='https://pato-master-nine.vercel.app/'>Ver Site</a>
 
-### » Tecnologias utilizadas: HTML, CSS, SASS, JS.
+### » Tecnologias utilizadas: HTML, CSS, SASS, JS, LESS, PYTHON, PHP.
 
-##
 
 <h2>Capturas de tela do projeto 📸</h2>
 <br>
